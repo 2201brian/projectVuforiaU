@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="RocketBooster" version="3.0" targetId="3cc70b172288443d9c8e13b700d94e33" sideLength="1.149800" topDiameter="0.673900" bottomDiameter="0.673900" sideImage="RocketBooster.Body_scaled.jpg" topImage="RocketBooster.Top_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
