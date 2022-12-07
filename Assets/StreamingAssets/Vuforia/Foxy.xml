@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Foxy" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Foxys_assembly" assemblyId="5be9088f5f15483f9d8e236338bc1094">
+<Part name="Foxy" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="View_front" translation="-0.0108797 0.40945 2.04753" rotation="AD: 0.990817 -0.195556 0.984732 195.882" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_left" translation="0.00660015 0.444078 1.91122" rotation="AD: 1 0.000303885 -0.00926329 183.758" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_back" translation="0.0110733 0.445785 1.87237" rotation="AD: 0.999985 0.00795513 -0.975732 180.669" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_right" translation="-0.0059926 0.442642 1.9249" rotation="AD: -0.245353 -0.972175 13.3241 179.846" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
