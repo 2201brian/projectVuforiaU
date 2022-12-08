@@ -5,13 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Master Vuforia/Scenes/Test.unity
     guid: 7df523ce967c4e341a129a46b7b8fd50
   - enabled: 1
-    path: Assets/Master Vuforia/Scenes/01 - Image Target.unity
+    path: Assets/Master Vuforia/Scenes/01-ImageTarget.unity
     guid: 7ea93d4c100433744ab1a29b6341f839
   - enabled: 1
-    path: Assets/Master Vuforia/Scenes/02 - MultiTarget.unity
+    path: Assets/Master Vuforia/Scenes/02-MultiTarget.unity
     guid: e154cb2bd7db07d43a3a623523e1d126
+  - enabled: 1
+    path: Assets/Master Vuforia/Scenes/03-CylinderTarget.unity
+    guid: b05d200935f664a45930dc51d37163bd
+  - enabled: 1
+    path: Assets/Master Vuforia/Scenes/05 - CloudRecognition.unity
+    guid: 2a700d1287cc02848a369ad11a17f45f
+  - enabled: 1
+    path: Assets/Master Vuforia/Scenes/06 - ModelTarget.unity
+    guid: 4a965e56b407aa64c86939d6f9ac4454
+  - enabled: 1
+    path: Assets/Master Vuforia/Scenes/07 - GrounPlande.unity
+    guid: 8d9b7ef7b5aff984b99c9a770f1f2e5a
+  - enabled: 1
+    path: Assets/Master Vuforia/Scenes/07 - MidAir.unity
+    guid: f96a65280300415459d4bec42d536a2c
   m_configObjects: {}

@@ -3,8 +3,11 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
-    public void LoadScene(int sceneBuilIndex)
+
+    public void LoadScenes(int sceneIndex)
     {
-        SceneManager.LoadScene(sceneBuilIndex);
+        Debug.Log("Loading =>" + sceneIndex);
+        SceneManager.LoadScene(sceneIndex);
     }
+
 }
